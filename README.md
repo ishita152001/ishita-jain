@@ -1,6 +1,6 @@
 # Ishita Jain
 
-[Email](mailto:ishitalibra15@gmail.com) | +91 8434343570 | [LinkedIn](https://www.linkedin.com/in/ishita-jain15/)
+[Email](mailto:ishitalibra15@gmail.com) | +91 7982654489 | [LinkedIn](https://www.linkedin.com/in/ishita-jain15/)
 
 
 
