@@ -15,7 +15,7 @@ April 2021 - June 2021 (Remote)
 - Created responsive microservices for the website.
 - Worked on the creation and integration of Spring APIs.
 - Worked on data insertion and retrieval from the database.
-- ## Tech Stack: Python, SpringBoot, APIs Integration, Postman
+- Tech Stack: Python, SpringBoot, APIs Integration, Postman
 
 ## Education
 
